@@ -2,6 +2,8 @@
 
 My tech radar, this includes technologies that I use personally and commercially. 
 
+[View](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fwhortleberrybearer%2FTechRadar%2Frefs%2Fheads%2Fmain%2FTechRadar.csv)
+
 The rings don't directly match to how ThoughtWorks use them as I am not actively recommending (or not so) the use of specific languages, tools, etc.  It is more an indication of technologies that I'm actively using, not using or wanting to understand more about.
 
 - Adopt = I'm regularly using and well skilled in.
