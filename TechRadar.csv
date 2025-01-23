@@ -1,4 +1,4 @@
-Name,Ring,Quadrant,IsNew,Status,Description
+name,ring,quadrant,isNew,status,description
 C#,Adopt,Languages-and-Frameworks,FALSE,No Change,
 AI Dev Tooling,Assess,Tools,TRUE,New,"<p>AI wont take your job, someone using AI will</p>""
 CI / CD,Adopt,Techniques,FALSE,No Change,
