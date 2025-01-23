@@ -3,7 +3,7 @@ C#,Adopt,Languages-and-Frameworks,FALSE,No Change,
 AI Dev Tooling,Assess,Tools,TRUE,New,"<p>AI wont take your job, someone using AI will</p>"
 CI / CD,Adopt,Techniques,FALSE,No Change,
 GitHub,Adopt,Platforms,FALSE,No Change,
-Azure DevOps,Hold,Platforms,FALSE,Moved Out,"<p>GitHub more commonly used.</p>"<p>No longer using commercially.</p>"
+Azure DevOps,Hold,Platforms,FALSE,Moved Out,"<p>GitHub more commonly used.</p><p>No longer using commercially.</p>"
 Docker,Adopt,Tools,FALSE,No Change,
 Podman,Trial,Tools,TRUE,New,"<p>Alternative to Docker, without the premium.</p>"
 PKM,Trial,Techniques,TRUE,New,"<p>Better management of my knowledge and other things I consume.</p>"
@@ -60,7 +60,7 @@ MySQL,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
 Sqlite,Adopt,Platforms,FALSE,No Change,
 IaC,Trial,Techniques,FALSE,No Change,
 Terraform,Trial,Languages-and-Frameworks,FALSE,No Change,
-Azure Service Fabric,Hold,Platforms,FALSE,No Change,"<p>No longer using commercially.</p>"<p>Uptake limited by the rise of Kubernetes</p>"
+Azure Service Fabric,Hold,Platforms,FALSE,No Change,"<p>No longer using commercially.</p><p>Uptake limited by the rise of Kubernetes</p>"
 Entity Framework,Adopt,Languages-and-Frameworks,FALSE,No Change,
 Dapper,Adopt,Languages-and-Frameworks,FALSE,No Change,
 SignalR,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"
@@ -68,6 +68,6 @@ gRPC,Assess,Languages-and-Frameworks,FALSE,No Change,
 Playwrite,Assess,Languages-and-Frameworks,TRUE,New,
 Automated UI Testing,Assess,Techniques,TRUE,New,
 Selenium,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"
-ASP MVC,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"<p>SPA more popular these days.</p>"
+ASP MVC,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p><p>SPA more popular these days.</p>"
 Conventional Commits,Adopt,Techniques,FALSE,No Change,
 Diagrams as Code,Trial,Techniques,FALSE,No Change,
