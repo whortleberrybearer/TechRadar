@@ -1,0 +1,73 @@
+name,ring,quadrant,isNew,status,description
+C#,Adopt,Languages-and-Frameworks,FALSE,No Change,
+AI Dev Tooling,Assess,Tools,TRUE,New,"<p>AI wont take your job, someone using AI will</p>""
+CI / CD,Adopt,Techniques,FALSE,No Change,
+GitHub,Adopt,Platforms,FALSE,No Change,
+Azure DevOps,Hold,Platforms,FALSE,Moved Out,"<p>GitHub more commonly used.</p>"<p>No longer using commercially.</p>"
+Docker,Adopt,Tools,FALSE,No Change,
+Podman,Trial,Tools,TRUE,New,"<p>Alternative to Docker, without the premium.</p>""
+PKM,Trial,Techniques,TRUE,New,"<p>Better management of my knowledge and other things I consume.</p>"
+SonarCloud,Assess,Tools,TRUE,New,
+FeatureFlags,Assess,Techniques,TRUE,New,"<p>Is there a better way of managing features on release.</p>"
+BDD,Trial,Techniques,FALSE,No Change,
+Team Leadership,Trial,Techniques,TRUE,New,
+Tailwind,Assess,Languages-and-Frameworks,TRUE,New,"<p>Upcoming UI library.</p>"
+SQL,Adopt,Languages-and-Frameworks,FALSE,No Change,
+SQL Server,Adopt,Platforms,FALSE,No Change,
+TDD,Adopt,Techniques,FALSE,No Change,
+AWS,Trial,Platforms,FALSE,Moved In,
+Azure,Adopt,Platforms,FALSE,No Change,
+C4 Model,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Architectural Patterns,Assess,Techniques,TRUE,New,
+FluentAssertions,Hold,Languages-and-Frameworks,FALSE,Moved Out,"<p>Has recently gone premium for commercial use. Look for alternatives as not worth paying for.</p>"
+Shouldly,Trial,Languages-and-Frameworks,TRUE,New,"<p>Alternative to FluentAssertions.</p>"
+Storybook,Trial,Tools,TRUE,New,
+xUnit,Adopt,Languages-and-Frameworks,FALSE,No Change,
+AI,Assess,Techniques,TRUE,New,
+OpenTelemetry,Trial,Languages-and-Frameworks,TRUE,New,
+GitHub Actions,Trial,Platforms,FALSE,No Change,
+AutoFixture,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using due to change in unit test style.</p>"
+Structured Logging,Adopt,Techniques,FALSE,No Change,
+Serilog,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Dapr,Assess,Languages-and-Frameworks,TRUE,New,
+Bootstrap,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Angular,Hold,Languages-and-Frameworks,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+React,Hold,Languages-and-Frameworks,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+SpecFlow,Trial,Languages-and-Frameworks,FALSE,No Change,
+FluentResults,Trial,Languages-and-Frameworks,FALSE,No Change,
+Kubernetes,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+Moq,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Backstage,Assess,Tools,FALSE,No Change,
+Developer Portals,Assess,Platforms,FALSE,No Change,
+Bogus,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Shadcn UI,Assess,Languages-and-Frameworks,TRUE,New,"<p>A different form of component library.</p>"
+Observability,Assess,Techniques,FALSE,No Change,
+GraphQL,Hold,Languages-and-Frameworks,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+ASP WebAPI,Adopt,Languages-and-Frameworks,FALSE,No Change,
+TechRadar,Trial,Techniques,TRUE,New,"<p>A way of managing technology outlook, both personally and commercially.</p>""
+DynamoDB,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+AWS Lambda,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+Event Driven Architecture,Trial,Techniques,FALSE,No Change,
+Domain Driven Design,Trial,Techniques,FALSE,No Change,
+.NET 8,Trial,Languages-and-Frameworks,TRUE,New,"<p>Catch up with the latest developments.</p>"
+Microservices,Trial,Techniques,FALSE,No Change,
+Scrum,Adopt,Techniques,FALSE,No Change,
+SAFE,Hold,Techniques,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+CQRS,Assess,Techniques,FALSE,Moved Out,
+Event Sourcing,Hold,Techniques,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+Kafka,Assess,Platforms,FALSE,No Change,
+MySQL,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
+Sqlite,Adopt,Platforms,FALSE,No Change,
+IaC,Trial,Techniques,FALSE,No Change,
+Terraform,Trial,Languages-and-Frameworks,FALSE,No Change,
+Azure Service Fabric,Hold,Platforms,FALSE,No Change,"<p>No longer using commercially.</p>"<p>Uptake limited by the rise of Kubernetes</p>"
+Entity Framework,Adopt,Languages-and-Frameworks,FALSE,No Change,
+Dapper,Adopt,Languages-and-Frameworks,FALSE,No Change,
+SignalR,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"
+gRPC,Assess,Languages-and-Frameworks,FALSE,No Change,
+Playwrite,Assess,Languages-and-Frameworks,TRUE,New,
+Automated UI Testing,Assess,Techniques,TRUE,New,
+Selenium,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"
+ASP MVC,Hold,Languages-and-Frameworks,FALSE,No Change,"<p>No longer using commercially.</p>"<p>SPA more popular these days.</p>"
+Conventional Commits,Adopt,Techniques,FALSE,No Change,
+Diagrams as Code,Trial,Techniques,FALSE,No Change,
