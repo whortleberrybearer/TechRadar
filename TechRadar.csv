@@ -1,11 +1,11 @@
 name,ring,quadrant,isNew,status,description
 C#,Adopt,Languages-and-Frameworks,FALSE,No Change,
-AI Dev Tooling,Assess,Tools,TRUE,New,"<p>AI wont take your job, someone using AI will</p>""
+AI Dev Tooling,Assess,Tools,TRUE,New,"<p>AI wont take your job, someone using AI will</p>"
 CI / CD,Adopt,Techniques,FALSE,No Change,
 GitHub,Adopt,Platforms,FALSE,No Change,
 Azure DevOps,Hold,Platforms,FALSE,Moved Out,"<p>GitHub more commonly used.</p>"<p>No longer using commercially.</p>"
 Docker,Adopt,Tools,FALSE,No Change,
-Podman,Trial,Tools,TRUE,New,"<p>Alternative to Docker, without the premium.</p>""
+Podman,Trial,Tools,TRUE,New,"<p>Alternative to Docker, without the premium.</p>"
 PKM,Trial,Techniques,TRUE,New,"<p>Better management of my knowledge and other things I consume.</p>"
 SonarCloud,Assess,Tools,TRUE,New,
 FeatureFlags,Assess,Techniques,TRUE,New,"<p>Is there a better way of managing features on release.</p>"
@@ -44,7 +44,7 @@ Shadcn UI,Assess,Languages-and-Frameworks,TRUE,New,"<p>A different form of compo
 Observability,Assess,Techniques,FALSE,No Change,
 GraphQL,Hold,Languages-and-Frameworks,FALSE,Moved Out,"<p>No longer using commercially.</p>"
 ASP WebAPI,Adopt,Languages-and-Frameworks,FALSE,No Change,
-TechRadar,Trial,Techniques,TRUE,New,"<p>A way of managing technology outlook, both personally and commercially.</p>""
+TechRadar,Trial,Techniques,TRUE,New,"<p>A way of managing technology outlook, both personally and commercially.</p>"
 DynamoDB,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
 AWS Lambda,Hold,Platforms,FALSE,Moved Out,"<p>No longer using commercially.</p>"
 Event Driven Architecture,Trial,Techniques,FALSE,No Change,
